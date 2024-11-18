@@ -4,7 +4,8 @@
       "brand_name": "Daraz",
       "rating": 4.5,
       "description": "Daraz is a leading e-commerce platform offering a wide range of products.",
-      "brand_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Daraz_Logo.png/800px-Daraz_Logo.png?20220118110901",
+      "brand_logo_name_name": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Daraz_Logo.png/800px-Daraz_Logo.png?20220118110901",
+      "brand_logo": "https://ecdn.dhakatribune.net/contents/cache/images/640x359x1/uploads/dten/2022/01/17/daraz-new-logo.png",
       "coupons": [
         {
           "coupon_code": "DARAZ20",
@@ -44,7 +45,8 @@
       "brand_name": "FoodPanda",
       "rating": 4.3,
       "description": "FoodPanda delivers your favorite meals from top restaurants.",
-      "brand_logo": "https://images.prothomalo.com/prothomalo-english%2F2021-04%2F21544da0-8318-4e6f-a997-bc9294dc2588%2FPic_foodpanda_cares_donation_for_Ramadan.png?auto=format%2Ccompress&fmt=webp&format=webp&w=640&dpr=1.0",
+      "brand_logo_name": "https://images.prothomalo.com/prothomalo-english%2F2021-04%2F21544da0-8318-4e6f-a997-bc9294dc2588%2FPic_foodpanda_cares_donation_for_Ramadan.png?auto=format%2Ccompress&fmt=webp&format=webp&w=640&dpr=1.0",
+      "brand_logo": "https://media.sketchfab.com/models/b5571bf866e54a6085d41d62a90d2b17/thumbnails/278d1d97e8574f629402f877c54c77fb/2b39352a5b9b487cbab7e44d404e0968.jpeg",
       "coupons": [
         {
           "coupon_code": "FP100",
@@ -84,7 +86,8 @@
       "brand_name": "Pickaboo",
       "rating": 4.1,
       "description": "Pickaboo offers top gadgets and accessories with exciting discounts.",
-      "brand_logo": "https://w7.pngwing.com/pngs/48/1019/png-transparent-bangladesh-pickaboo-com-online-shopping-magento-service-others-blue-company-text.png",
+      "brand_logo_name": "https://w7.pngwing.com/pngs/48/1019/png-transparent-bangladesh-pickaboo-com-online-shopping-magento-service-others-blue-company-text.png",
+      "brand_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-S5XE0NOSqs9GJXi-ruXP1rcsPswM1_OmmQ&s",
       "coupons": [
         {
           "coupon_code": "PICK50",
@@ -124,7 +127,8 @@
       "brand_name": "Pathao Food",
       "rating": 4.2,
       "description": "Order delicious meals with Pathao Food.",
-      "brand_logo": "https://futurestartup.b-cdn.net/wp-content/uploads/2021/03/Pathao-Logo-cover.jpg",
+      "brand_logo_name": "https://futurestartup.b-cdn.net/wp-content/uploads/2021/03/Pathao-Logo-cover.jpg",
+      "brand_logo": "https://tds-images.thedailystar.net/sites/default/files/styles/very_big_201/public/images/2023/10/25/pathao_new_logo.png",
       "coupons": [
         {
           "coupon_code": "PATHAO25",
@@ -164,7 +168,8 @@
       "brand_name": "AjkerDeal",
       "rating": 3.9,
       "description": "AjkerDeal offers amazing discounts on a wide range of products.",
-      "brand_logo": "https://static.ajkerdeal.com/images/dealdetails/ad-logo.svg",
+      "brand_logo_name": "https://static.ajkerdeal.com/images/dealdetails/ad-logo.svg",
+      "brand_logo": "https://cdn.prod.website-files.com/60ebdc9660a5caf7f6dd2b74/61c1cf3ac6231e6d0ae0abdf_phpzG6oyf_iedqok.png",
       "coupons": [
         {
           "coupon_code": "DEAL10",
@@ -198,6 +203,212 @@
       "shop_Link": "https://www.ajkerdeal.com",
       "category": "E-commerce",
       "isSaleOn": true
+    },
+    {
+      "_id": "6",
+      "brand_name": "Chaldal",
+      "rating": 4.7,
+      "description": "Chaldal provides grocery shopping with ease and discounts.",
+      "brand_logo_name": "https://upload.wikimedia.org/wikipedia/en/d/de/Chaldal.com_logo.png",
+      "brand_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt9WzBW9szUua2wFWdaQ0tYuxZzWPtapKKMA&s",
+      "coupons": [
+        {
+          "coupon_code": "GROCERY20",
+          "description": "20% off on all grocery items.",
+          "expiry_date": "2024-12-31",
+          "condition": "Minimum purchase of BDT 500.",
+          "coupon_type": "Discount"
+        },
+        {
+          "coupon_code": "FREEEGGS",
+          "description": "Get free eggs with orders above BDT 800.",
+          "expiry_date": "2024-11-30",
+          "condition": "Limited to one per user.",
+          "coupon_type": "Free Item"
+        },
+        {
+          "coupon_code": "VEGGIE10",
+          "description": "Flat 10% off on vegetables.",
+          "expiry_date": "2024-12-15",
+          "condition": "No minimum purchase required.",
+          "coupon_type": "Flat Discount"
+        },
+        {
+          "coupon_code": "NEXTDAY",
+          "description": "Free next-day delivery on orders above BDT 1000.",
+          "expiry_date": "2024-10-31",
+          "condition": "Valid for Dhaka only.",
+          "coupon_type": "Free Shipping"
+        }
+      ],
+      "shop_Link": "https://www.chaldal.com",
+      "category": "Groceries",
+      "isSaleOn": true
+    },
+    {
+      "_id": "7",
+      "brand_name": "Uber Eats",
+      "rating": 4.4,
+      "description": "Uber Eats brings your favorite food to your doorstep.",
+      "brand_logo_name": "https://w7.pngwing.com/pngs/141/427/png-transparent-uber-eats-pizza-food-delivery-restaurant-pizza-food-text-logo-thumbnail.png",
+      "brand_logo": "https://thumbs.dreamstime.com/b/portugal-lisbon-june-illustration-uber-eats-logo-popular-firm-delivery-food-home-offices-express-meal-119103566.jpg",
+      "coupons": [
+        {
+          "coupon_code": "UBER50",
+          "description": "50% off on your first 3 orders.",
+          "expiry_date": "2024-12-31",
+          "condition": "Maximum discount BDT 200 per order.",
+          "coupon_type": "New User"
+        },
+        {
+          "coupon_code": "BRUNCH10",
+          "description": "10% off on brunch orders.",
+          "expiry_date": "2024-11-30",
+          "condition": "Valid from 10 AM to 2 PM.",
+          "coupon_type": "Percentage Discount"
+        },
+        {
+          "coupon_code": "WEEKEND20",
+          "description": "20% off on weekend orders.",
+          "expiry_date": "2024-12-15",
+          "condition": "Maximum discount BDT 150.",
+          "coupon_type": "Weekend Discount"
+        },
+        {
+          "coupon_code": "SHAREMEAL",
+          "description": "Order for 2 and get 25% off.",
+          "expiry_date": "2024-10-31",
+          "condition": "Valid on select restaurants.",
+          "coupon_type": "Group Discount"
+        }
+      ],
+      "shop_Link": "https://www.ubereats.com",
+      "category": "Food Delivery",
+      "isSaleOn": true
+    },
+    {
+      "_id": "8",
+      "brand_name": "",
+      "rating": 4.2,
+      "description": "Sheba.xyz offers home services at the best prices.",
+      "brand_logo_name": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUz-TGERig0KppljdUANEYvnpXfFBwbtnpew&s",
+      "brand_logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/6e/d2/386ed2a7-cffb-2b12-feaf-15cdb28551c0/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/1200x600wa.png",
+      "coupons": [
+        {
+          "coupon_code": "CLEAN20",
+          "description": "20% off on home cleaning services.",
+          "expiry_date": "2024-11-30",
+          "condition": "Maximum discount BDT 300.",
+          "coupon_type": "Discount"
+        },
+        {
+          "coupon_code": "FIRSTSERVICE",
+          "description": "Flat BDT 200 off for first-time users.",
+          "expiry_date": "2024-12-31",
+          "condition": "Valid for one-time use only.",
+          "coupon_type": "New User"
+        },
+        {
+          "coupon_code": "REPAIR10",
+          "description": "10% off on appliance repairs.",
+          "expiry_date": "2024-12-15",
+          "condition": "No minimum charges required.",
+          "coupon_type": "Flat Discount"
+        },
+        {
+          "coupon_code": "FESTIVE15",
+          "description": "15% off on all festive services.",
+          "expiry_date": "2024-10-31",
+          "condition": "Valid for Eid and Puja services only.",
+          "coupon_type": "Festive Offer"
+        }
+      ],
+      "shop_Link": "https://www.sheba.xyz",
+      "category": "Home Services",
+      "isSaleOn": false
+    },
+    {
+      "_id": "9",
+      "brand_name": "Rokomari",
+      "rating": 4.6,
+      "description": "Rokomari is your go-to online bookstore for the best deals.",
+      "brand_logo_name": "https://iconape.com/wp-content/files/aw/181544/svg/181544.svg",
+      "brand_logo": "https://play-lh.googleusercontent.com/xowgUyZAPlf9wAS7l-sq9Kp4E37eHDeHPQtSGS4Yp6g9YHP6OdVtP8uLvnO_Zyzd9Q",
+      "coupons": [
+        {
+          "coupon_code": "BOOKLOVER",
+          "description": "20% off on all books.",
+          "expiry_date": "2024-12-31",
+          "condition": "Minimum purchase of BDT 500.",
+          "coupon_type": "Discount"
+        },
+        {
+          "coupon_code": "FREESHIPBOOK",
+          "description": "Free shipping on orders above BDT 800.",
+          "expiry_date": "2024-11-30",
+          "condition": "Valid across Bangladesh.",
+          "coupon_type": "Free Shipping"
+        },
+        {
+          "coupon_code": "AUTHOR20",
+          "description": "20% off on featured authors.",
+          "expiry_date": "2024-12-15",
+          "condition": "Applicable on selected authors only.",
+          "coupon_type": "Author Special"
+        },
+        {
+          "coupon_code": "EIDBOOKS",
+          "description": "Flat BDT 150 off on Eid gift boxes.",
+          "expiry_date": "2024-10-31",
+          "condition": "Limited stock available.",
+          "coupon_type": "Festive Discount"
+        }
+      ],
+      "shop_Link": "https://www.rokomari.com",
+      "category": "Books",
+      "isSaleOn": true
+    },
+    {
+      "_id": "10",
+      "brand_name": "Kaymu",
+      "rating": 4.3,
+      "description": "Kaymu brings exciting deals on everyday products.",
+      "brand_logo_name": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Kaymu_logo.png/800px-Kaymu_logo.png",
+      "brand_logo": "https://play-lh.googleusercontent.com/gxy6m87JeTe_jy2fJjbXvnVKRKJ2WSnKxWuzE_z2n2aAlQfJVp6yPHa1-CRCYoRztMQ",
+      "coupons": [
+        {
+          "coupon_code": "DAILY15",
+          "description": "15% off on daily essentials.",
+          "expiry_date": "2024-12-31",
+          "condition": "No minimum purchase required.",
+          "coupon_type": "Discount"
+        },
+        {
+          "coupon_code": "SAVE200",
+          "description": "Save BDT 200 on purchases above BDT 1000.",
+          "expiry_date": "2024-11-30",
+          "condition": "Limited time offer.",
+          "coupon_type": "Flat Discount"
+        },
+        {
+          "coupon_code": "MIDNIGHTSALE",
+          "description": "Exclusive 25% off on midnight shopping.",
+          "expiry_date": "2024-12-15",
+          "condition": "Valid from 12 AM to 3 AM.",
+          "coupon_type": "Time-Limited Offer"
+        },
+        {
+          "coupon_code": "BULKBUY10",
+          "description": "10% off on bulk orders.",
+          "expiry_date": "2024-10-31",
+          "condition": "Minimum 5 items in cart.",
+          "coupon_type": "Bulk Discount"
+        }
+      ],
+      "shop_Link": "https://www.kaymu.com.bd",
+      "category": "E-commerce",
+      "isSaleOn": true
     }
   ]
+  
   
