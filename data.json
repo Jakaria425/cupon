@@ -1,0 +1,203 @@
+[
+    {
+      "_id": "1",
+      "brand_name": "Daraz",
+      "rating": 4.5,
+      "description": "Daraz is a leading e-commerce platform offering a wide range of products.",
+      "brand_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Daraz_Logo.png/800px-Daraz_Logo.png?20220118110901",
+      "coupons": [
+        {
+          "coupon_code": "DARAZ20",
+          "description": "Get 20% off on electronics.",
+          "expiry_date": "2024-12-31",
+          "condition": "Minimum purchase of BDT 1000.",
+          "coupon_type": "Discount"
+        },
+        {
+          "coupon_code": "FREESHIP",
+          "description": "Free shipping on orders above BDT 500.",
+          "expiry_date": "2024-11-30",
+          "condition": "Valid for selected cities.",
+          "coupon_type": "Free Shipping"
+        },
+        {
+          "coupon_code": "BIGSALE50",
+          "description": "Flat 50% off on clothing.",
+          "expiry_date": "2024-12-15",
+          "condition": "Maximum discount BDT 300.",
+          "coupon_type": "Percentage Discount"
+        },
+        {
+          "coupon_code": "DZRNEW10",
+          "description": "10% off for new users.",
+          "expiry_date": "2024-10-31",
+          "condition": "Valid for first purchase only.",
+          "coupon_type": "New User"
+        }
+      ],
+      "shop_Link": "https://www.daraz.com.bd",
+      "category": "E-commerce",
+      "isSaleOn": true
+    },
+    {
+      "_id": "2",
+      "brand_name": "FoodPanda",
+      "rating": 4.3,
+      "description": "FoodPanda delivers your favorite meals from top restaurants.",
+      "brand_logo": "https://images.prothomalo.com/prothomalo-english%2F2021-04%2F21544da0-8318-4e6f-a997-bc9294dc2588%2FPic_foodpanda_cares_donation_for_Ramadan.png?auto=format%2Ccompress&fmt=webp&format=webp&w=640&dpr=1.0",
+      "coupons": [
+        {
+          "coupon_code": "FP100",
+          "description": "Flat BDT 100 off on your first order.",
+          "expiry_date": "2024-12-31",
+          "condition": "Valid for new users only.",
+          "coupon_type": "Flat Discount"
+        },
+        {
+          "coupon_code": "DINNER50",
+          "description": "50% off on dinner orders.",
+          "expiry_date": "2024-11-30",
+          "condition": "Maximum discount BDT 200.",
+          "coupon_type": "Percentage Discount"
+        },
+        {
+          "coupon_code": "LUNCH30",
+          "description": "30% off on lunch orders.",
+          "expiry_date": "2024-10-31",
+          "condition": "Applicable between 12 PM - 3 PM.",
+          "coupon_type": "Discount"
+        },
+        {
+          "coupon_code": "FREESHIPFP",
+          "description": "Free delivery on all orders above BDT 300.",
+          "expiry_date": "2024-09-30",
+          "condition": "Valid in selected cities.",
+          "coupon_type": "Free Shipping"
+        }
+      ],
+      "shop_Link": "https://www.foodpanda.com.bd",
+      "category": "Food Delivery",
+      "isSaleOn": true
+    },
+    {
+      "_id": "3",
+      "brand_name": "Pickaboo",
+      "rating": 4.1,
+      "description": "Pickaboo offers top gadgets and accessories with exciting discounts.",
+      "brand_logo": "https://w7.pngwing.com/pngs/48/1019/png-transparent-bangladesh-pickaboo-com-online-shopping-magento-service-others-blue-company-text.png",
+      "coupons": [
+        {
+          "coupon_code": "PICK50",
+          "description": "50% off on selected gadgets.",
+          "expiry_date": "2024-10-31",
+          "condition": "No minimum purchase required.",
+          "coupon_type": "Discount"
+        },
+        {
+          "coupon_code": "NEWUSER20",
+          "description": "20% off for new users.",
+          "expiry_date": "2024-09-30",
+          "condition": "Valid for the first purchase only.",
+          "coupon_type": "New User"
+        },
+        {
+          "coupon_code": "FLASH25",
+          "description": "Flash sale 25% off on all products.",
+          "expiry_date": "2024-12-05",
+          "condition": "Offer valid for 24 hours only.",
+          "coupon_type": "Percentage Discount"
+        },
+        {
+          "coupon_code": "GADGETLOVE",
+          "description": "Flat BDT 150 off on gadgets above BDT 2000.",
+          "expiry_date": "2024-11-15",
+          "condition": "Limited time offer.",
+          "coupon_type": "Flat Discount"
+        }
+      ],
+      "shop_Link": "https://www.pickaboo.com",
+      "category": "Electronics",
+      "isSaleOn": true
+    },
+    {
+      "_id": "4",
+      "brand_name": "Pathao Food",
+      "rating": 4.2,
+      "description": "Order delicious meals with Pathao Food.",
+      "brand_logo": "https://futurestartup.b-cdn.net/wp-content/uploads/2021/03/Pathao-Logo-cover.jpg",
+      "coupons": [
+        {
+          "coupon_code": "PATHAO25",
+          "description": "Flat 25% off on food orders.",
+          "expiry_date": "2024-12-31",
+          "condition": "Maximum discount BDT 150.",
+          "coupon_type": "Flat Discount"
+        },
+        {
+          "coupon_code": "NEWBIE",
+          "description": "First-time users get 15% off.",
+          "expiry_date": "2024-12-31",
+          "condition": "Valid for first order only.",
+          "coupon_type": "New User"
+        },
+        {
+          "coupon_code": "EIDSPECIAL",
+          "description": "Special Eid offer: 20% off.",
+          "expiry_date": "2024-12-15",
+          "condition": "Applicable on select restaurants.",
+          "coupon_type": "Discount"
+        },
+        {
+          "coupon_code": "LATEDELIVERY",
+          "description": "50% off on next order for delayed deliveries.",
+          "expiry_date": "2024-10-31",
+          "condition": "Applicable only for delayed orders.",
+          "coupon_type": "Compensation"
+        }
+      ],
+      "shop_Link": "https://www.pathao.com",
+      "category": "Food Delivery",
+      "isSaleOn": false
+    },
+    {
+      "_id": "5",
+      "brand_name": "AjkerDeal",
+      "rating": 3.9,
+      "description": "AjkerDeal offers amazing discounts on a wide range of products.",
+      "brand_logo": "https://static.ajkerdeal.com/images/dealdetails/ad-logo.svg",
+      "coupons": [
+        {
+          "coupon_code": "DEAL10",
+          "description": "Get 10% off on all products.",
+          "expiry_date": "2024-11-30",
+          "condition": "Maximum discount BDT 100.",
+          "coupon_type": "Percentage Discount"
+        },
+        {
+          "coupon_code": "FREEDELIVERY",
+          "description": "Free delivery on orders above BDT 200.",
+          "expiry_date": "2024-12-20",
+          "condition": "Valid for Dhaka and Chattogram only.",
+          "coupon_type": "Free Shipping"
+        },
+        {
+          "coupon_code": "SUPER50",
+          "description": "Flat 50% off on super deals.",
+          "expiry_date": "2024-12-01",
+          "condition": "Applicable on selected products only.",
+          "coupon_type": "Flat Discount"
+        },
+        {
+          "coupon_code": "BULKBUY",
+          "description": "15% off on bulk purchases.",
+          "expiry_date": "2024-10-20",
+          "condition": "Minimum 5 items required.",
+          "coupon_type": "Bulk Discount"
+        }
+      ],
+      "shop_Link": "https://www.ajkerdeal.com",
+      "category": "E-commerce",
+      "isSaleOn": true
+    }
+  ]
+  
